@@ -1,0 +1,136 @@
+.top-container {
+  background-color: #FFDEDE;
+  position: relative;
+  padding-top: 100px;
+}
+
+.bottom-container{
+  background-color: #FFDEDE;
+  padding-top: 30px;
+  padding-bottom: 25px;
+}
+body {
+  margin: 0;
+  text-align: center;
+  font-size:20px;
+}
+
+h1 {
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Ballet', cursive;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+  line-height: 2;
+
+}
+
+h2 {
+  color: #66BFBF;
+}
+
+h3 {
+  color: #11999E;
+}
+
+hr{
+  width: 10%;
+ border: 10px dotted;
+ border-bottom: none;
+ color: #3F72AF;
+ margin: 100px auto;
+}
+
+.profile-image {
+  height: 250px;
+  width: 250px;
+}
+
+.pc-img {
+  border-radius: 50%;
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+
+}
+
+.pool-img {
+  border-radius: 50%;
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.profile-des{
+  color: #40514E;
+}
+
+
+.programmer {
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-family: 'Sigmar One', cursive;
+  font-weight: normal;
+
+}
+
+.skill-row{
+  width:50%;
+  margin: 100px auto 200px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 500px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 500px;
+  bottom: 300px;
+}
+
+.footer-link {
+  color: #11999E;
+  font-size: 20px;
+  margin: 5px 20px;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #7027A0;
+}
+
+.contact-me{
+  margin: 100px auto 50px auto;
+  font-size: 20px;
+}
+
+.Contact {
+   background: #11999E;
+   border-radius: 20px;
+   color: #FFDEDE;
+   font-family: Arial;
+   font-size: 30px;
+   font-weight: 100;
+   padding: 10px;
+   border: solid #337FED 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.Contact:hover {
+   border: solid #337FED 1px;
+   background: #F56FAD;
+   border-radius: 10px;
+   text-decoration: none;
+}
+
+.copy{
+  margin-top:50px;
+}
